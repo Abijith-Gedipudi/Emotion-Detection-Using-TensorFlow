@@ -1,1 +1,2 @@
 # Emotion-Detection-Using-TensorFlow
+This project aims to build an emotion detection system using deep learning techniques in TensorFlow. The model detects emotions from textual, visual, or audio data, identifying emotions such as happiness, sadness, anger, surprise, etc. This system can be integrated into various applications like virtual assistants, customer support systems, and mental health apps.
